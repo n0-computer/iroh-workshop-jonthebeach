@@ -1,3 +1,5 @@
+Latest version of the workshop is at https://github.com/n0-computer/iroh-workshop-omniopencon
+
 # Code for the iroh workshop @ JOnTheBeach 2024
 
 ## Hackmd
